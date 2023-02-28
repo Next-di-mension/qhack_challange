@@ -1,3 +1,4 @@
 /home/iisers/Desktop/glioma_final.npy filter=lfs diff=lfs merge=lfs -text
 /home/iisers/Desktop/meningioma_final.npy filter=lfs diff=lfs merge=lfs -text
 /home/iisers/Desktop/no_tumor_final.npy filter=lfs diff=lfs merge=lfs -text
+home/iisers/Desktop/pituitary_final.npy filter=lfs diff=lfs merge=lfs -text
